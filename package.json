@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "antd": "^5.24.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "mysql2": "^3.13.0",
